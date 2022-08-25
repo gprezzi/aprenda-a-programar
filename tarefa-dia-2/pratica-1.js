@@ -1,5 +1,10 @@
 let nome = Guilherme
-let mail = guiprezzi@outlook.com
-let profissao = atleta
+console.log (nome)
+let email = guiprezzi@outlook.com 
+console.log (email)
+let profissao = atleta 
+console.log (profissao)
 let idade = 26 
-let lugar = Itália
+console.log (idade)
+let lugar = Itália 
+console.log (lugar)
